@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 // buraya sitenizin adresini yazın
-Sitemap: https://seninsiteninadresi.com/sitemap.xml
+Sitemap: https://altinzamani.com/sitemap.xml
